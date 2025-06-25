@@ -18,9 +18,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=nawab-rdx&label=Profile+Views&color=ff00ff&style=flat-square" />
 <img src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
-<img src="https://img.shields.io/github/stars/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/forks/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/repo-size/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
+<img src="https://img.shields.io/github/last-commit/nawab-rdx/NAWAB-RDX?color=ff00ff&style=flat-square" />
 
 </div>
 
