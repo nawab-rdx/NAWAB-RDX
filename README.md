@@ -173,5 +173,5 @@ You are free to use, modify, and distribute it under the terms of this license.
 <h3 align="center">🙏 Thanks for using!</h3>
 <p align="center">
   If you like this project, consider giving it a ⭐ on GitHub.<br>
-  Made with ❤️ by <a href="https://https://github.com/nawab-rdx">NAWAB-RDX</a>
+  Made with ❤️ by NAWAB-RDX</a>
 </p>
