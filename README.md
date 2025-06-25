@@ -121,3 +121,57 @@
 <p align="center"><i>✨ Keep your bot updated regularly to enjoy the latest features and patches.</i></p>
 
 ---
+
+🧠 DEVELOPER NOTICE
+</h2>
+
+<div align="center" style="background:#0d0d0d; border:2px dashed #ff00ff; border-radius:12px; padding:20px; width:90%; box-shadow:0 0 15px #ff00ff;">
+
+<p style="color:#ffffff; font-size:15px; font-family:sans-serif;">
+🚫 This project is <strong>NOT FOR SALE</strong> and is provided for educational and personal use only.<br><br>
+📛 <strong>Do not use without giving proper credit</strong> to the original author.<br><br>
+🛑 Unauthorized selling, re-uploading, or branding as your own is strictly prohibited.
+</p>
+
+</div>
+
+---
+
+## 📜 DISCLAIMER
+
+<div align="center" style="background-color:#0f0f0f; border:2px solid #00ffff; border-radius:10px; padding:20px; box-shadow:0 0 10px #00ffff;">
+
+<h3 style="color:#00ffff; font-family:monospace;">📌 Read Carefully</h3>
+
+<p style="color:#ffffff; font-size:14px;">
+This bot is <strong>not affiliated with WhatsApp Inc.</strong><br>
+Use at your own risk. We are <strong>not responsible</strong> for any misuse, abuse, or ban that results from improper use.<br>
+Inspired by the original work of <strong>Balleys</strong>, and enhanced by the community.
+</p>
+
+</div>
+
+---
+
+## 📝 LICENSE
+
+<div align="center" style="background-color:#101010; border:2px solid #888888; border-radius:10px; padding:15px; box-shadow:0 0 5px #666666;">
+
+<p style="color:#ffffff; font-size:14px;">
+This project is licensed under the <strong>Apache License 2.0</strong><br>
+You are free to use, modify, and distribute it under the terms of this license.
+</p>
+
+<a href="https://www.apache.org/licenses/LICENSE-2.0" target="_blank">
+  <img src="https://img.shields.io/badge/License-Apache_2.0-ff69b4?style=for-the-badge&logo=apache" />
+</a>
+
+</div>
+
+---
+
+<h3 align="center">🙏 Thanks for using!</h3>
+<p align="center">
+  If you like this project, consider giving it a ⭐ on GitHub.<br>
+  Made with ❤️ by <a href="https://https://github.com/nawab-rdx">NAWAB-RDX</a>
+</p>
